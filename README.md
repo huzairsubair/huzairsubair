@@ -5,7 +5,7 @@
  
   <br>
   <samp>
-    <i>Yo!</i> I'm <b>Albin_S</b>.
+    <i>Yo!</i> I'm <b>huzair</b>.
     <br> 
     Check out my repo's, tks btw 
     <br>
